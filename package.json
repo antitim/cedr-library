@@ -1,0 +1,35 @@
+{
+  "name": "cedr-library",
+  "version": "0.1.0",
+  "description": "Loader of library for cedr",
+  "homepage": "",
+  "author": {
+    "name": "antitim",
+    "email": "antitim@yandex.ru",
+    "url": ""
+  },
+  "main": "index.js",
+  "keywords": [
+    "cedr",
+    "html",
+    "bem"
+  ],
+  "repository": "antitim/cedr-library",
+  "scripts": {
+    "test": "_mocha",
+    "lint": "eslint lib/*.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.9.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "map-stream": "0.0.6",
+    "vinyl-fs": "^2.4.4"
+  }
+}
