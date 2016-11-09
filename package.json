@@ -8,7 +8,7 @@
     "email": "antitim@yandex.ru",
     "url": ""
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "keywords": [
     "cedr",
     "html",
