@@ -1,6 +1,6 @@
 {
   "name": "cedr-library",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Loader of library for cedr",
   "homepage": "",
   "author": {
@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "map-stream": "0.0.6",
+    "posthtml-parser": "^0.2.0",
     "vinyl-fs": "^2.4.4"
   }
 }
